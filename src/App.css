@@ -1,0 +1,13 @@
+body {
+    overflow-x: hidden;
+}
+
+.part-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.part {
+    text-transform: capitalize;
+    font-weight: 500;
+}
